@@ -6,9 +6,13 @@ C++ language Project using object oriented concepts of language like file handli
 Benefits of project->
 
 	hostlers can register complains by using their access
+
 	all types of ragging issues are maintained under authorized privacy
+
 	all the workers can have the access to complains at the access of password
+
 	the higher authority like wardens can have a check upon the status of complains 
+
 	best thing is that easy to use just by knowing the technique.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
